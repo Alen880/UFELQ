@@ -41,7 +41,7 @@ image quality assessment.
 * Clone this repo
 
 ```
-git clone https://github.com/Alen880/VPRR
+git clone https://github.com/Alen880/UFELQ
 cd VPRR
 ```
 
